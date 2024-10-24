@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="images/favicon.png" type="image/png">
+        <title>Single-Page CV</title>
+    </head>
+    <body style="width: 30%; border: 2px solid black; padding: 30px;">
+        <br /><br /><br />
+        <hr />
+        <header>
+            <h1>John Doe</h1>
+            <h3 style="color: green;">Junior Front End Developer</h3>
+            <p>
+                Address 123 <br /> 
+                Lazytown, 2121 <br />
+                +123 45 789 1234 <br />
+                johndoe@yahoo.com
+            </p>
+
+        </header>
+    
+        <section>
+
+            <h3 style="color: green;">Skills</h3>
+            <p>
+                HTML,CSS,Javascript,Accessibility,Figma to Design,Responsive Web Design, <br />
+                Technical Writing, Presentation
+            </p>
+
+        </section>
+
+            <br />
+        
+        <section>
+
+            <h3 style="color: green;">Education</h3>
+            <h4 style="color: lightblue;">Yale</h4>
+            <p>
+                Sep-2022 - June-2026 <br />
+                Met a lot of interesting people that share the same interests.
+            </p>
+
+        </section>
+    
+        <br />
+    
+        <section>
+
+            <h3 style="color: green;">Experience</h3>
+            <h4 style="color: lightblue;">Google</h4>
+            <p> September 2020 - October 2020 </p>
+            <ul>
+                <li>Got Hands on experience on how websites are made.</li>
+                <li>Had an opportunity to meet professionals in the field.</li>
+                <li>Created projects in a team.</li>
+            </ul>
+            <p>
+                Skills: Learnt how to devide work between group members. <br />
+                Practiced HTML, CSS and Javascript.
+            </p>
+
+        </section>
+
+    <br />
+
+    <section>
+
+        <h3 style="color: green;">Across the Internet</h3>
+        <a target="_blank" href="https://www.linkedin.com/in/johndoe-399a6619b/ ">LinkedIn</a>
+        <br />
+        <a target="_blank" href="https://github.com/johndoe ">GitHub</a>
+    </section>
+</body>
+</html>
