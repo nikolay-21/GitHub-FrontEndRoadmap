@@ -1,2 +1,2 @@
-# GItHub-FrontEndRoadmap
-Completed projects from a public Front End Roadmap.
+Repository with completed Projects from the Front-End Roadmap
+https://roadmap.sh/frontend/projects
